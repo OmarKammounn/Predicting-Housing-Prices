@@ -29,7 +29,6 @@ Various libraries and tools were utilized to complete this project:
 - NumPy: Utilized for numerical computations and array operations.
 - Matplotlib and Seaborn: Employed for data visualization.
 - Scikit-Learn: Utilized for implementing machine learning models, preprocessing, and model evaluation.
-- Jupyter Notebooks: Used for documenting code, insights, and analysis.
 
 **Classification Models Explored**
 
